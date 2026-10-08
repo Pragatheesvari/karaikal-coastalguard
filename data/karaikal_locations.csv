@@ -1,0 +1,440 @@
+﻿id,commune,village,water_body,latitude,longitude
+1,Karaikal,Thalatheru,Alli Kulam,10.944797,79.826361
+2,Karaikal,Thalatheru,Periya Kulam,10.947042,79.826556
+3,Karaikal,Thalatheru,Pillaiyar Koil Kulam,10.942567,79.828281
+4,Karaikal,Thalatheru,Sivan Koil Kulam,10.946319,79.831322
+5,Kottucherry,Kottucherry East,Akkam pettai kulam,10.969264,79.851931
+6,Kottucherry,Kottucherry West,Allikuttai Kulam,10.970572,79.817011
+7,Kottucherry,Varichikudy,Amma sethi kulam,10.982867,79.818911
+8,Kottucherry,Thiruvettakudy,Amman Kulam,10.982167,79.839494
+9,Kottucherry,Kottucherry West,Andipillaiyar Kulam,10.956506,79.823272
+10,Kottucherry,Poovam,Anna nagar ceiling kulam,10.995417,79.830567
+11,Kottucherry,Kottucherry West,Athiladi Kulam,10.97335,79.817022
+12,Kottucherry,Poovam,Ayankara kulam,10.999314,79.832853
+13,Kottucherry,Varichikudy,Ayyanar kulam,10.989678,79.820575
+14,Kottucherry,Varichikudy,chanthiran kulam,10.983767,79.822972
+15,Kottucherry,Poovam,Chetty kulam,10.996617,79.835275
+16,Kottucherry,Kottucherry East,Jeevanagar kulam,10.961178,79.831917
+17,Kottucherry,Varichikudy,Kamarajar kulam,10.979694,79.826658
+18,Kottucherry,Poovam,Konan kulam,10.992183,79.836533
+19,Kottucherry,Varichikudy,Konnakavali chinna kulam,10.995981,79.807589
+20,Kottucherry,Varichikudy,Konnakavali periya kulam,10.996067,79.806964
+21,Kottucherry,Varichikudy,Konnkavali pet Kulam,10.996647,79.809619
+22,Kottucherry,Thiruvettakudy,Korai Kulam,10.975272,79.836456
+23,Kottucherry,Kottucherry West,Kumarapillai Kulam,10.959628,79.825044
+24,Kottucherry,Poovam,Kunda kalavai kulam,10.986919,79.832306
+25,Kottucherry,Kottucherry West,Kuttaikarai Kulam,10.968853,79.821647
+26,Kottucherry,Kottucherry West,Kuyavan Kulam,10.957517,79.813319
+27,Kottucherry,Varichikudy,Kuzhkuditha Agragaram periya kulam,10.974186,79.808989
+28,Kottucherry,Thiruvettakudy,Madhu Mariyamman Koil Kulam,10.976256,79.833361
+29,Kottucherry,Varichikudy,Manmadhan kulam,10.978258,79.809836
+30,Kottucherry,Thiruvettakudy,Maraikayar Kulam,10.984944,79.838122
+31,Kottucherry,Poovam,Mariamman kovil kulam,10.994128,79.8294
+32,Kottucherry,Kottucherry East,Mariyamman kovil kulam,10.965,79.827728
+33,Kottucherry,Poovam,Mela veethi periya kulam,10.992464,79.824192
+34,Kottucherry,Kottucherry East,Mukkal bariyal kulam,10.964067,79.838858
+35,Kottucherry,Kottucherry East,Mukkal kulam,10.965111,79.826186
+36,Kottucherry,Varichikudy,Muttathan kulam I,10.994208,79.811428
+37,Kottucherry,Varichikudy,Muttathan kulam II,10.993903,79.810969
+38,Kottucherry,Thiruvettakudy,Naniermetu Kulam,10.978269,79.843911
+39,Kottucherry,Kottucherry West,Oma Kulam,10.964919,79.822372
+40,Kottucherry,Poovam,Oor kulam,11.000653,79.831028
+41,Kottucherry,Varichikudy,Paravai kulam,10.976,79.819372
+42,Kottucherry,Kottucherry East,Pattinavan kulam-I,10.961822,79.849408
+43,Kottucherry,Kottucherry East,Pattinavan kulam-II,10.962419,79.848817
+44,Kottucherry,Kottucherry East,Pattinavan kuttai kulam,10.967075,79.842531
+45,Kottucherry,Varichikudy,Pavalodai Kulam,10.972617,79.823358
+46,Kottucherry,Poovam,Periya kulam,10.995511,79.825633
+47,Kottucherry,Kottucherry West,Perumal Koil Kulam,10.965364,79.824433
+48,Kottucherry,Kottucherry East,Pidari kovil kulam,10.966667,79.827744
+49,Kottucherry,Varichikudy,Pillaiyar kovil kulam,10.984575,79.826594
+50,Kottucherry,Varichikudy,Ponnaiyapillai kulam,10.9786,79.819375
+51,Kottucherry,Varichikudy,Puliyanthoppu kulam,10.985214,79.809742
+52,Kottucherry,Kottucherry West,Pungady Kulam,10.961633,79.822683
+53,Kottucherry,Thiruvettakudy,Rettai Kuttai Kulam,10.980528,79.848839
+54,Kottucherry,Varichikudy,Sempodai kulam,10.983836,79.820419
+55,Kottucherry,Poovam,Sithanatha swamy kulam,10.9913,79.831542
+56,Kottucherry,Thiruvettakudy,Sudu Kattu Kuttai Kulam,10.973936,79.839381
+57,Kottucherry,Kottucherry East,Thachina kuttai kulam,10.961242,79.837589
+58,Kottucherry,Kottucherry West,Thamarai Kulam,10.961606,79.824703
+59,Kottucherry,Poovam,Thamarai kulam,10.993203,79.823028
+60,Kottucherry,Varichikudy,Thamarai kulam,10.988639,79.817639
+61,Kottucherry,Thiruvettakudy,Thaneer Pandhal Kulam,10.972081,79.838986
+62,Kottucherry,Varichikudy,Thanneer vattarn kulam,10.977742,79.823472
+63,Kottucherry,Thiruvettakudy,Thirumeni Azhagar Dhavasthana Kulam,10.983,79.840456
+64,Kottucherry,Thiruvettakudy,Thoppu Kulam,10.982353,79.837306
+65,Kottucherry,Thiruvettakudy,Thoppu Kulam Main Road,10.973986,79.829864
+66,Kottucherry,Kottucherry West,Veeralodai Kulam,10.967928,79.823425
+67,Nedungadu,Kurumbagaram,Adaikalapuram Pet Kulam,10.994883,79.750378
+68,Nedungadu,Kurumbagaram,Anthoniyar Koil Kulam Kottapackam,10.988739,79.772197
+69,Nedungadu,Kurumbagaram,Anthoniyar Kovil Kulam Mathalankudy,10.990533,79.757756
+70,Nedungadu,Melakasakudy,Chetty KUlam,10.949917,79.802547
+71,Nedungadu,Kurumbagaram,chinna Kulam Kurumbagaram,10.981178,79.7659
+72,Nedungadu,Kurumbagaram,chinna Kulam Saravanairuppu,10.985283,79.775428
+73,Nedungadu,Ponbethy,Iyyanaar Koil Kulam,10.975108,79.803958
+74,Nedungadu,Ponbethy,Iyyanaar kulam,10.969303,79.8031
+75,Nedungadu,Melakasakudy,Kallarai Kuttai,10.952681,79.797219
+76,Nedungadu,Kurumbagaram,Kalungady Kulam,11.002311,79.74755
+77,Nedungadu,Ponbethy,Kari kulam Puthakudy,10.974319,79.801386
+78,Nedungadu,Nedungadu,Karkathar Kulam,10.970031,79.771947
+79,Nedungadu,Nedungadu,Kavaran Kulam,10.968592,79.773467
+80,Nedungadu,Ponbethy,Keezha kulam,10.972397,79.783542
+81,Nedungadu,Nedungadu,Konan Kulam,10.970778,79.772608
+82,Nedungadu,Ponbethy,Kottagam Pet Kulam,10.98395,79.78455
+83,Nedungadu,Kurumbagaram,Kumaran Kulam,10.984925,79.766481
+84,Nedungadu,Ponbethy,Kumaran kulam Melakottucherry,10.966611,79.802489
+85,Nedungadu,Kurumbagaram,Madhakoil Kulam,10.985097,79.768703
+86,Nedungadu,Kurumbagaram,Madhakovil Kulam Nallathur,10.999669,79.751728
+87,Nedungadu,Kurumbagaram,Manalmedupet Kulam,10.965542,79.773072
+88,Nedungadu,Melakasakudy,Moongiladi Kulam,10.952342,79.793167
+89,Nedungadu,Nedungadu,Mottaiyan Kulam,10.974142,79.755008
+90,Nedungadu,Melakasakudy,Nambiyan Kulam,10.967936,79.792836
+91,Nedungadu,Kurumbagaram,Narikarambai Snana Kulam,10.988564,79.751336
+92,Nedungadu,Kurumbagaram,Pamban Kulam,10.984822,79.761514
+93,Nedungadu,Kurumbagaram,Pandavar Kulam,10.983242,79.765686
+94,Nedungadu,Kurumbagaram,Pazhayar Kulam,11.001792,79.749797
+95,Nedungadu,Ponbethy,Periya kulam Andoor,10.993825,79.786089
+96,Nedungadu,Ponbethy,Periya Kulam Keezhasembiangal,10.973939,79.791639
+97,Nedungadu,Ponbethy,Periya Kulam Kiliyanoor,10.981606,79.784678
+98,Nedungadu,Kurumbagaram,Periya Kulam Kurumbagaram,10.980397,79.766081
+99,Nedungadu,Ponbethy,Periya Kulam Melaponbethy,10.973033,79.777825
+100,Nedungadu,Ponbethy,Periya Kulam Puthakudi,10.972864,79.801744
+101,Nedungadu,Ponbethy,Pet Kulam Keezhasembiangal,10.970519,79.794464
+102,Nedungadu,Ponbethy,Pet Kulam Thiruvengadapuram,10.967597,79.795297
+103,Nedungadu,Nedungadu,Pidari Kuttai,10.967797,79.773489
+104,Nedungadu,Melakasakudy,Pillai Kulam,10.951342,79.794411
+105,Nedungadu,Kurumbagaram,Pillaiyarkoil snana kulam,10.974622,79.769958
+106,Nedungadu,Melakasakudy,Pitchayan Kulam,10.94865,79.798472
+107,Nedungadu,Melakasakudy,Pudhu Kulam,10.954625,79.812203
+108,Nedungadu,Kurumbagaram,Pudhu Kulam,10.990503,79.7641
+109,Nedungadu,Nedungadu,Raja Kuttai,10.969481,79.773197
+110,Nedungadu,Kurumbagaram,Rajeev Nagar Snana kulam,10.986889,79.766858
+111,Nedungadu,Ponbethy,Sappani Kulam,10.970675,79.804864
+112,Nedungadu,Ponbethy,Semang Kulam,10.972756,79.791708
+113,Nedungadu,Nedungadu,Sembodai Kulam,10.968744,79.778161
+114,Nedungadu,Ponbethy,Sevagantheru Snana Kulam,10.975822,79.783308
+115,Nedungadu,Ponbethy,Sinthantheru Snana Kulam,10.972333,79.785831
+116,Nedungadu,Ponbethy,Snana Kulam Kiliyanoor,10.98125,79.783581
+117,Nedungadu,Melakasakudy,Snana Kulam KKP,10.949539,79.808808
+118,Nedungadu,Ponbethy,Snana Kulam Kottagam,10.986542,79.783358
+119,Nedungadu,Kurumbagaram,Snana kulam Kottapackam,10.989261,79.771069
+120,Nedungadu,Ponbethy,Snana Kulam Kulakudi,10.996328,79.777633
+121,Nedungadu,Kurumbagaram,Snana Kulam Mathalankudy,10.988647,79.754503
+122,Nedungadu,Kurumbagaram,Snana Kulam Panchatcharapuram,10.977239,79.772342
+123,Nedungadu,Kurumbagaram,Snana Kulam Saravanairuppu,10.986511,79.775525
+124,Nedungadu,Ponbethy,Snana Kulam Thondamangalam,10.981125,79.798656
+125,Nedungadu,Ponbethy,Snana Kulam Usupur,10.991769,79.781417
+126,Nedungadu,Ponbethy,snana Kuttai,10.974786,79.793367
+127,Nedungadu,Melakasakudy,Thamarai kulam,10.955569,79.791356
+128,Nedungadu,Nedungadu,Thamarai Kulam,10.968094,79.770553
+129,Nedungadu,Ponbethy,Thamarai kulam Puthakudy,10.974783,79.802453
+130,Nedungadu,Kurumbagaram,Thattan Kulam,10.982647,79.768775
+131,Nedungadu,Melakasakudy,Thenpathi Kuttai,10.949494,79.797119
+132,Nedungadu,Nedungadu,Udaiyan Kulam,10.956147,79.794014
+133,Nedungadu,Ponbethy,Ukkadai kulam,10.974397,79.776244
+134,Nedungadu,Melakasakudy,Uthiriyan Kuttai,10.951775,79.801661
+135,Nedungadu,Ponbethy,Vadakattalai Alli Kulam,10.990836,79.776656
+136,Nedungadu,Ponbethy,Vadakattalai Pet Kulam,10.989925,79.779217
+137,Nedungadu,Ponbethy,Vadakatthi Kulam,10.971431,79.805297
+138,Nedungadu,Ponbethy,Vaduvan Kulam,10.973428,79.776356
+139,Nedungadu,Ponbethy,Valluvar kulam,10.974839,79.778583
+140,Nedungadu,Nedungadu,Vella Kulam,10.967342,79.779975
+141,Neravy,Neravy East,Aalan kulam,10.88735,79.828864
+142,Neravy,Keezhamanai,Anjumarathady kulam @ Perumal kulaml,10.879961,79.836869
+143,Neravy,Neravy East,Arisikara kuttai kulam,10.887069,79.821472
+144,Neravy,Neravy East,Atrangarai theru kulam,10.883756,79.82965
+145,Neravy,Vizhithiyur,Chettiyar kulam,10.915606,79.770231
+146,Neravy,Vizhithiyur,Chettiyar kulam,10.901583,79.758208
+147,Neravy,Neravy East,Class kulam,10.892706,79.818775
+148,Neravy,Neravy East,Class pet kulam,10.8924,79.820972
+149,Neravy,Vizhithiyur,Eary kulam,10.904986,79.764111
+150,Neravy,Neravy East,Elantha thaikal kulam,10.890214,79.832525
+151,Neravy,Neravy East,Erumai katchi kuttai kulam,10.888486,79.829233
+152,Neravy,Neravy West,Govindharajan Thottam Kulam,10.895361,79.813875
+153,Neravy,Neravy East,Iyyanar koil kanni,10.892731,79.794789
+154,Neravy,Keezhamanai,Iyyanar Koil Kulam,10.892731,79.794831
+155,Neravy,Keezhamanai,Kakamozhi pet kulam,10.893022,79.799575
+156,Neravy,Keezhamanai,Kakkamozhi Pet Kulam,10.893022,79.799561
+157,Neravy,Neravy West,Kaliamman Koil Kulam,10.891747,79.8061
+158,Neravy,Vizhithiyur,Kalungu pallam kulam,10.890861,79.757061
+159,Neravy,Vizhithiyur,Kanakapillai kulam,10.906322,79.768825
+160,Neravy,Vizhithiyur,Kanakapillai kuttai,10.906475,79.764547
+161,Neravy,Keezhamanai,Karkulam,10.898017,79.795683
+162,Neravy,Neravy West,Katra Kulam,10.894106,79.813989
+163,Neravy,Neravy East,Keezhtheru kulam @Sanan kulam,10.888264,79.824511
+164,Neravy,Neravy East,Keezhtherupet kulam,10.8896,79.827228
+165,Neravy,Keezhamanai,Kezhamanai Pet Kulam,10.895364,79.802883
+166,Neravy,Neravy East,Koilpathu pet kuttai kulam,10.891019,79.829167
+167,Neravy,Neravy West,Konan Kulam,10.896758,79.815467
+168,Neravy,Keezhamanai,Kunji Amman Koil KULAM,10.898067,79.799692
+169,Neravy,Keezhamanai,Kuttachi Kulam,10.895808,79.800867
+170,Neravy,Keezhamanai,Kuttai Kulam,10.889972,79.785736
+171,Neravy,Keezhamani,Madathu kuttai kulam,10.888658,79.82385
+172,Neravy,Neravy East,Mariamman kovil kulam,10.889786,79.822408
+173,Neravy,Keezhamanai,Moongilady kanni,10.892675,79.796136
+174,Neravy,Keezhamanai,Moongilady Kulam,10.892978,79.796058
+175,Neravy,Neravy West,Muthu Nayakkar Kulam,10.896372,79.814764
+176,Neravy,Neravy East,Muthupillai kulam,10.889803,79.816928
+177,Neravy,Neravy West,Muttuchavadi Kulam,10.897456,79.831197
+178,Neravy,Neravy East,Nagoran kulam,10.890928,79.814547
+179,Neravy,Vizhithiyur,Onion kuttai,10.892703,79.760203
+180,Neravy,Keezhamanai,Oozhiyapathu Pet Kulam,10.902178,79.792172
+181,Neravy,Neravy West,Ottarn Kulam,10.898489,79.816431
+182,Neravy,Neravy East,Pallivasal female kulam,10.889433,79.819261
+183,Neravy,Neravy East,Pallivasal kulam,10.889581,79.819058
+184,Neravy,Vizhithiyur,Pathiri kulam,10.899539,79.773075
+185,Neravy,Vizhithiyur,Periya kulam,10.893283,79.759306
+186,Neravy,Keezhamanai,"Periya Kulam, Kezhamanai",10.896758,79.801736
+187,Neravy,Keezhamanai,Periyakulam,10.894361,79.796147
+188,Neravy,Keezhamanai,"Periyakulam, Thuthupoinamoolai",10.891558,79.7843
+189,Neravy,Neravy West,Perumal Koil Kulam,10.893781,79.808908
+190,Neravy,Keezhamanai,Pet Kulam – Thuthuponamoolai,10.891303,79.787356
+191,Neravy,Vizhithiyur,Pet kulam manampettei,10.893769,79.763111
+192,Neravy,Vizhithiyur,Pidari kulam,10.908153,79.770281
+193,Neravy,Vizhithiyur,Pidari odai,10.909142,79.739386
+194,Neravy,Neravy West,Pidary Kulam,10.896656,79.813419
+195,Neravy,Keezhamanai,Pillaiyar Koil Kulam,10.900108,79.79675
+196,Neravy,Neravy West,Pillaiyar Koil Kulam,10.892864,79.815317
+197,Neravy,Neravy West,Poongulam,10.891067,79.809394
+198,Neravy,Neravy East,Poosaimandabam Kulam,10.887003,79.833092
+199,Neravy,Neravy East,Pottavaikal kuttai,10.891133,79.821353
+200,Neravy,Vizhithiyur,Puthu kulam,10.907378,79.759622
+201,Neravy,Keezhamanai,Sanan Kulam,10.894128,79.798161
+202,Neravy,Keezhamanai,sanan kulam,10.894117,79.797825
+203,Neravy,Neravy East,Sathirathu kulam,10.892239,79.832431
+204,Neravy,Neravy East,Sembadavan kuttai kulam,10.889389,79.823325
+205,Neravy,Vizhithiyur,Somanathaawamy koil kulam,10.905722,79.7664
+206,Neravy,Neravy East,Thalaiyari kuttai kulam,10.8916,79.819853
+207,Neravy,Vizhithiyur,Thamarai kulam,10.90815,79.761253
+208,Neravy,Keezhamanai,Thamarai Kuttai Kulam,10.894906,79.797067
+209,Neravy,Neravy East,Thavaraikollai kuttai kulam,10.890361,79.823086
+210,Neravy,Keezhamanai,Thennamarai Kuttai Kulam,10.900469,79.793667
+211,Neravy,Neravy West,Thiru Kulam,10.892678,79.812411
+212,Neravy,Keezhamanai,Thirukulam – Kezhamanai,10.896653,79.799864
+213,Neravy,Keezhamanai,Thirukulam – Thuthuponamoolai,10.890342,79.783839
+214,Neravy,Vizhithiyur,Thiruvasal kulam,10.909175,79.763633
+215,Neravy,Keezhamanai,Thoppu Kulam,10.898364,79.798933
+216,Neravy,Neravy West,Vadakku Kuttai Kulam,10.896272,79.816561
+217,Neravy,Neravy East,Valayankanni kulam,10.889567,79.825269
+218,Neravy,Keezhamanai,Vannan Kulam,10.896372,79.796128
+219,Neravy,Neravy East,Vannan kulam,10.889169,79.815208
+220,Neravy,Neravy West,Veeran Koil Kulam,10.894442,79.806622
+221,Thirunallar,Surakudy,Adhidravider kulam,10.957222,79.777217
+222,Thirunallar,Nallathur,Aiyyanar Koil Kulam,10.951039,79.747308
+223,Thirunallar,Pettai,Alady Kulam,10.914519,79.803592
+224,Thirunallar,Thirunallar North,Alli Kulam,10.935994,79.798997
+225,Thirunallar,Thirunallar South,Ambethkar Nagar Kulam,10.922172,79.791519
+226,TR-Pattinam,TR-Pattinam South,ANDRARAN KULAM,10.879592,79.809536
+227,Thirunallar,Pettai,Angalamman Koil Kulam,10.911756,79.775886
+228,Thirunallar,Thirunallar North,Anna Nagar Kulam,10.936594,79.791986
+229,Thirunallar,Thirunallar North,Anna Nayakkan Kulam,10.936403,79.782564
+230,Thirunallar,Sellur,Anthoniyar Kulam,10.927056,79.754458
+231,Thirunallar,Sethur,Attrangarai Kulam,10.941083,79.738728
+232,Thirunallar,Karukkangudy,Avvaiyar Moolai Kulam,10.945581,79.755133
+233,Thirunallar,Karukkangudy,Avvaiyay Kulam at Valathamangalam,10.946353,79.755233
+234,Thirunallar,Sethur,Ayannar Kulam,10.931458,79.7432
+235,Thirunallar,Thirunallar North,Ayyanar Kulam,10.92715,79.785358
+236,Thirunallar,Thirunallar South,Brhama Thireetham Kulam,10.925772,79.794064
+237,Thirunallar,Thirunallar North,Dhuravan Kuttai,10.938875,79.793428
+238,Thirunallar,Sellur,Erattai Kulam,10.913892,79.767067
+239,Thirunallar,Surakudy,Govindhan kulam,10.936192,79.778606
+240,Thirunallar,Thirunallar North,Indhara Nagar Kulam,10.931339,79.788658
+241,Thirunallar,Nallathur,Iyyanar Koil Kulam,10.947575,79.742364
+242,Thirunallar,Sellur,Iyyanar Kulam,10.928653,79.759533
+243,Thirunallar,Surakudy,Iyyanarkovil kulam,10.96015,79.773681
+244,Thirunallar,Pettai,Kaliamman Koil Kulam,10.913031,79.781986
+245,Thirunallar,Thirunallar North,Kaliyamman Koil Kulam,10.939106,79.792431
+246,Thirunallar,Sethur,Kamachi Kulam,10.933992,79.743767
+247,Thirunallar,Ambagarathur,Kannapoor Mela Kulam,10.961844,79.742667
+248,Thirunallar,Thirunallar South,Karukkan Kulam,10.923319,79.785819
+249,Thirunallar,Sellur,Kasikulam at Sellur Main Road,10.92745,79.767006
+250,Thirunallar,Surakudy,Kathdan kulam,10.938394,79.776039
+251,Thirunallar,Pettai,Kezhatheru Kulam,10.914961,79.785708
+252,Thirunallar,Thirunallar North,Kollai Kulam,10.930014,79.794669
+253,Thirunallar,Sellur,Kollan Kuttai,10.927236,79.768358
+254,Thirunallar,Surakudy,Koothadai kuttai kulam,10.941528,79.780208
+255,Thirunallar,Sethur,Kushavan Kulam,10.929114,79.744253
+256,Thirunallar,Nallathur,Kuttai Kulam,10.950308,79.7463
+257,Thirunallar,Sellur,Kuttai Kulam,10.921728,79.773161
+258,Thirunallar,Surakudy,Kuyvan kulam,10.937883,79.777556
+259,Thirunallar,Thirunallar North,Maniyan Kulam,10.928397,79.794906
+260,Thirunallar,Thirunallar North,Maraikan Kulam,10.927564,79.792383
+261,Thirunallar,Thirunallar North,Mariamman Koil Kulam,10.926625,79.795919
+262,Thirunallar,Thirunallar North,Mariyamman Koil Kulam,10.943356,79.742497
+263,Thirunallar,Nallathur,Mariyamman Koil Kulam,10.948594,79.746278
+264,Thirunallar,Sellur,Mavadi Kulam,10.922353,79.769853
+265,Thirunallar,Karukkangudy,Mavadi Kulam at Karukankudi,10.946131,79.772675
+266,Thirunallar,Nallathur,Mavalli Kulam,10.948528,79.742125
+267,Thirunallar,Pettai,Melatheru KULAM,10.914708,79.784686
+268,Thirunallar,Thirunallar North,Mukkuthi Kuttai,10.929025,79.794875
+269,Thirunallar,Pettai,Mungiladi Kulam,10.916439,79.794589
+270,Thirunallar,Ambagarathur,Murakkaran Kulam,10.959508,79.722706
+271,Thirunallar,Pettai,Muyal Kulam,10.920958,79.797553
+272,Thirunallar,Thirunallar North,Naikkan Sathiram Kulam,10.927164,79.80065
+273,Thirunallar,Thirunallar North,Nalan Kulam,10.927989,79.789228
+274,Thirunallar,Sethur,Nallamuthan Kulam,10.930008,79.740208
+275,Thirunallar,Surakudy,Nallathanneer kulam,10.934919,79.783642
+276,Thirunallar,Thirunallar North,Nanchi Kuttai,10.928881,79.794525
+277,Thirunallar,Pettai,Nedunthoppu Kulam,10.915878,79.7805
+278,Thirunallar,Sethur,Nelli Kulam,10.937547,79.740975
+279,Thirunallar,Ambagarathur,Odaikarai Kulam,10.958622,79.728972
+280,Thirunallar,Karukkangudy,Old Pathakudy Kulam,10.952586,79.762292
+281,Thirunallar,Sethur,Oru Kulam,10.930214,79.740503
+282,Thirunallar,Pettai,Ottapillayar Kulam,10.911881,79.7756
+283,Thirunallar,Surakudy,Pal kuttai kulam,10.939978,79.779283
+284,Thirunallar,Sethur,Palla Kollai Kulam,10.942106,79.732358
+285,Thirunallar,Nallathur,Pallivasal Kulam,10.945322,79.741292
+286,Thirunallar,Pettai,Panangarai Odai Kulam,10.905364,79.801414
+287,Thirunallar,Sethur,Panchakara Kuttai,10.936097,79.744461
+288,Thirunallar,Sethur,Pannan Kulam,10.930778,79.745506
+289,Thirunallar,Nallathur,Panthalady Kulam,10.943256,79.741003
+290,Thirunallar,Surakudy,Panthalady kulam,10.934325,79.78305
+291,Thirunallar,Pettai,Papan Kulam,10.911331,79.777689
+292,Thirunallar,Sellur,Papan Kulam,10.921078,79.754894
+293,Thirunallar,Sethur,Pasi Kulam,10.932833,79.742339
+294,Thirunallar,Karukkangudy,Periya Kulam at Pathakudy,10.954881,79.759136
+295,Thirunallar,Thirunallar South,Perumal Koil Kulam,10.925803,79.789672
+296,Thirunallar,Sethur,Pidaari Kulam,10.941053,79.742372
+297,Thirunallar,Nallathur,Pidari KOIL Kulam,10.950417,79.746139
+298,Thirunallar,Thirunallar North,Pidari Koil Kulam,10.9299,79.793033
+299,Thirunallar,Pettai,Pidari KOVIL Kulam,10.91895,79.795044
+300,Thirunallar,Nallathur,Pidari Kovil Kulam,10.948375,79.740483
+301,Thirunallar,Sellur,Pidari Kulam,10.926525,79.763908
+302,Thirunallar,Nallathur,Pillaiyar Koil Kulam,10.952864,79.737969
+303,Thirunallar,Nallathur,Pillaiyar Koil Kulam,10.951364,79.743544
+304,Thirunallar,Sellur,Pillaiyar Kulam,10.913942,79.763922
+305,Thirunallar,Sellur,Pillaiyar Kulam,10.928039,79.761117
+306,Thirunallar,Ambagarathur,Pillaiyar Kuzhi Kulam,10.958658,79.721556
+307,Thirunallar,Sethur,Pinna Kuttai,10.937803,79.7423
+308,Thirunallar,Surakudy,Pinnadi kuttai kualm,10.940328,79.780736
+309,Thirunallar,Thirunallar South,Poiya Kulam,10.925825,79.790967
+310,Thirunallar,Thirunallar South,Poo. Mangalam Iyyanarl Kulam,10.922925,79.797936
+311,Thirunallar,Thirunallar South,Poo. Mangalam Kollai Kuttai Kulam,10.924347,79.796197
+312,Thirunallar,Thirunallar South,Poo. Mangalam Perappan Kulam,10.924092,79.799189
+313,Thirunallar,Thirunallar South,Poo. Mangalam Pet Kulam,10.925353,79.801258
+314,Thirunallar,Thirunallar South,Poo. Mangalam Vaniyan Kulam,10.922753,79.796453
+315,Thirunallar,Karukkangudy,Puthukulam at Valathamangalam,10.945556,79.752597
+316,Thirunallar,Nallathur,Railady Dich Kulam,10.953978,79.750642
+317,Thirunallar,Thirunallar North,Rukkupillai Kuttai,10.928417,79.7931
+318,Thirunallar,Nallathur,Sakkulian KUTTAI,10.943817,79.743228
+319,Thirunallar,Sellur,Saliya Kulam,10.923044,79.770136
+320,Thirunallar,Pettai,Sambadi Kulam,10.916131,79.796108
+321,Thirunallar,Thirunallar North,Santhanamadha kulam,10.945211,79.800108
+322,Thirunallar,Thirunallar South,Saraswathy Thireetham Kulam,10.924864,79.792322
+323,Thirunallar,Sethur,Sathan Kudi Kulam,10.946344,79.739019
+324,Thirunallar,Surakudy,Selliamman kovil kulam,10.960136,79.775675
+325,Thirunallar,Sethur,Selliyamman Koil Kulam,10.941428,79.729294
+326,Thirunallar,Sellur,Sengani Kulam,10.925578,79.761767
+327,Thirunallar,Surakudy,Senthamarai kulam,10.958839,79.774886
+328,Thirunallar,Surakudy,Singaperumal kovil kulam,10.938256,79.780322
+329,Thirunallar,Surakudy,Siratha Kulam,10.911692,79.782044
+330,Thirunallar,Thirunallar South,South Street Vaniyan Kulam,10.924131,79.788758
+331,Thirunallar,Thirunallar North,Sriraman Kulam,10.945894,79.780342
+332,Thirunallar,Thirunallar North,Sundaram Kulam,10.936861,79.786767
+333,Thirunallar,Surakudy,Surakudy iyyanar kulam,10.936686,79.777222
+334,Thirunallar,Thirunalla North,Thachan Kulam,10.935892,79.793028
+335,Thirunallar,Nallathur,Thalayari Kulam,10.9456,79.743533
+336,Thirunallar,Thirunalla North,Thalayari Kulam,10.939494,79.798447
+337,Thirunallar,Sellur,Thamarai Kulam,10.926456,79.769872
+338,Thirunallar,Thirunalla North,Thampan Kulam,10.928247,79.794111
+339,Thirunallar,Ambagarathur,Thatchan Kulam,10.959894,79.726947
+340,Thirunallar,Sellur,Theli Kulam,10.930078,79.760011
+341,Thirunallar,Surakudy,Therkku Thamari kulam,10.933783,79.77935
+342,Thirunallar,Surakudy,Therkkupet kulam,10.931447,79.781625
+343,Thirunallar,Pettai,Therkutheru Kulam,10.919467,79.774003
+344,Thirunallar,Pettai,Theru Kulam,10.903672,79.799111
+345,Thirunallar,Thrirunallar North,Theru Kulam,10.937203,79.799558
+346,Thirunallar,Nallathur,Thiru Kulam,10.947694,79.74265
+347,Thirunallar,Nallathur,Thiru kulam,10.940356,79.777183
+348,Thirunallar,Sethur,Thiruvasal Nagar Kuttai Kulam,10.935556,79.735778
+349,Thirunallar,Pettai,Thoppu Kulam,10.912475,79.801744
+350,Thirunallar,Sethur,Valavu Kulam,10.933067,79.744197
+351,Thirunallar,Sethur,Vannan Kulam,10.939706,79.744725
+352,Thirunallar,Pettai,Vannan Kulam,10.915739,79.780892
+353,Thirunallar,Sellur,Vannan Kulam,10.918544,79.746097
+354,Thirunallar,Surakudy,Vannan kulam,10.942839,79.778972
+355,Thirunallar,Pettai,Vazhamarathu Kulam,10.916336,79.780869
+356,Thirunallar,Pettai,Veeran Kulam,10.907322,79.799194
+357,Thirunallar,Sellur,Veeran Kuttai,10.925686,79.768547
+358,Thirunallar,Pettai,Velaar Kulam,10.906314,79.795592
+359,Thirunallar,Pettai,Vella Kulam,10.920494,79.798469
+360,Thirunallar,Thirunallar North,Vella Kulam,10.937119,79.798561
+361,Thirunallar,Sethur,Vettu Kulam,10.930589,79.728258
+362,Thirunallar,Thirunallar North,Vettu Kulam,10.927336,79.795547
+363,Thirunallar,Thirunallar South,Yaman Thireetham Kulam,10.925,79.793167
+364,TR-Pattinam,TR-Pattinam North,Aasan Kulam,10.880972,79.831753
+365,TR-Pattinam,TR-Pattinam South,Abirami Amman Koil Kulam,10.870525,79.827822
+366,TR-Pattinam,TR-Pattinam South,Alli Kulam,10.864333,79.809164
+367,TR-Pattinam,TR-Pattinam North,Andrayan Kulam,10.879361,79.806869
+368,TR-Pattinam,TR-Pattinam North,Angara Kulam,10.873617,79.825389
+369,TR-Pattinam,Vanjore,Anjaneyar Koil Kulam,10.828575,79.831569
+370,TR-Pattinam,Edatheru,Atha Kulam,10.868078,79.8387
+371,TR-Pattinam,Edatheru,Chettiyar Kulam,10.870311,79.836117
+372,TR-Pattinam,TR-Pattinam North,Eaniya Kulam,10.877647,79.830764
+373,TR-Pattinam,Edatheru,Edaiyan Kulam,10.870119,79.837861
+374,TR-Pattinam,TR-Pattinam North,Iyyan Kulam,10.875433,79.835575
+375,TR-Pattinam,TR-Pattinam North,Iyyanar koil kuttai,10.877714,79.809375
+376,TR-Pattinam,TR-Pattinam North,Kadai Kulam,10.876256,79.830433
+377,TR-Pattinam,TR-Pattinam South,Kalaiyarangam near kulam,10.872283,79.828131
+378,TR-Pattinam,TR-Pattinam South,Kaman koil theru kulam,10.867167,79.829517
+379,TR-Pattinam,TR-Pattinam South,Kanagasabai Kulam,10.865803,79.809553
+380,TR-Pattinam,Keezhaiyur,Karpa kulam,10.8744,79.837381
+381,TR-Pattinam,Vanjore,Kathari Kuttai,10.838647,79.841525
+382,TR-Pattinam,TR-Pattinam North,Kotara Kulam,10.872808,79.836489
+383,TR-Pattinam,TR-Pattinam North,Kottan Kuttai,10.875728,79.835333
+384,TR-Pattinam,Neravy West,Kumaran Koil Kulam,10.895353,79.812922
+385,TR-Pattinam,Edatheru,Lingathadi Kulam (Therku Kulam),10.861158,79.838294
+386,TR-Pattinam,TR-Pattinam South,Madathu kulam,10.871578,79.830231
+387,TR-Pattinam,TR-Pattinam South,Madathu Kulam – Nainikattalai,10.865125,79.808353
+388,TR-Pattinam,TR-Pattinam North,Malaiyur Pet Kuttai,10.872972,79.823222
+389,TR-Pattinam,TR-Pattinam South,Manda Kulam,10.869656,79.825756
+390,TR-Pattinam,TR-Pattinam North,Maraikayar kulam,10.878717,79.829675
+391,TR-Pattinam,Vanjore,Mariamman Koil Kulam,10.838125,79.838606
+392,TR-Pattinam,TR-Pattinam South,Market periya kulam,10.872914,79.83145
+393,TR-Pattinam,TR-Pattinam North,Mela palli kulam,10.878103,79.827983
+394,TR-Pattinam,TR-Pattinam South,Mudhaliyar Bus stand kulam,10.869108,79.830442
+395,TR-Pattinam,TR-Pattinam North,Muthampallam pet kuttai,10.879761,79.813619
+396,TR-Pattinam,Vanjore,Nadutheru Pet Kulam,10.833653,79.834267
+397,TR-Pattinam,Vanjore,Nathan Kuttai,10.839917,79.839444
+398,TR-Pattinam,Keezhaiyur,Omozhiyappar kulam,10.880794,79.838583
+399,TR-Pattinam,TR-Pattinam North,Paavai Kulam,10.874917,79.827889
+400,TR-Pattinam,TR-Pattinam North,Paduthar Kollai Kuttai,10.878517,79.809228
+401,TR-Pattinam,Edatheru,Pal Kulam,10.8567,79.830664
+402,TR-Pattinam,Vanjore,Pallivasal Kulam,10.837222,79.838858
+403,TR-Pattinam,Vanjore,Paravai Kulam,10.829503,79.834847
+404,TR-Pattinam,TR-Pattinam South,Pasupatheswaran Koil Kulam,10.859814,79.820203
+405,TR-Pattinam,Keezhaiyur,Pattinacherry kulam,10.880772,79.847239
+406,TR-Pattinam,TR-Pattinam South,Periya kulam Polagam,10.864994,79.830314
+407,TR-Pattinam,TR-Pattinam North,Periya palli kulam,10.88015,79.829181
+408,TR-Pattinam,Vanjore,Petharnasamy Kulam,10.837536,79.841006
+409,TR-Pattinam,TR-Pattinam North,Pidari Kulam,10.877011,79.83295
+410,TR-Pattinam,Edatheru,Pillaiyar Koil Kulam,10.867781,79.837036
+411,TR-Pattinam,Vanjore,Pillaiyar Koil Theru Kulam,10.833667,79.838397
+412,TR-Pattinam,Vanjore,Pinna Kuttai,10.839656,79.830586
+413,TR-Pattinam,TR-Pattinam North,Poon Kulam,10.879508,79.822364
+414,TR-Pattinam,TR-Pattinam North,Poon Kulam,10.873678,79.8258
+415,TR-Pattinam,Vanjore,Poothan Kuttai,10.840781,79.8391
+416,TR-Pattinam,Vanjore,Rengaiyamada Kovil Kulam,10.831172,79.831219
+417,TR-Pattinam,Keezhaiyur,Saniparavai kulam,10.872258,79.846831
+418,TR-Pattinam,TR-Pattinam North,Sivan Kovil Kulam,10.87945,79.809667
+419,TR-Pattinam,Vanjore,Soriyan Kuttai,10.839178,79.839614
+420,TR-Pattinam,TR-Pattinam North,Sudu kulam,10.879367,79.829217
+421,TR-Pattinam,TR-Pattinam South,Sundra vinayagar koil kulam,10.871639,79.829558
+422,TR-Pattinam,TR-Pattinam North,Thaikal Kulam,10.881083,79.8325
+423,TR-Pattinam,TR-Pattinam South,Thamarai Kulam,10.866044,79.826656
+424,TR-Pattinam,Edatheru,Thambiran Kuttai,10.868897,79.839047
+425,TR-Pattinam,TR-Pattinam South,Theru Kulam,10.865092,79.809286
+426,TR-Pattinam,TR-Pattinam North,Thoppu kollai kuttai,10.879083,79.818178
+427,TR-Pattinam,TR-Pattinam South,Thoppu Kulam,10.864042,79.808953
+428,TR-Pattinam,Neravy West,Uppukuttai Kulam,10.895225,79.811803
+429,TR-Pattinam,TR-Pattinam South,Vadakkupet kulam Polagam,10.864131,79.825031
+430,TR-Pattinam,Vanjore,Vadaku Vanjore Koil Kulam,10.851983,79.847
+431,TR-Pattinam,TR-Pattinam North,Valuka Kulam,10.874314,79.82895
+432,TR-Pattinam,TR-Pattinam South,Vannan Kulam – Melaiyur,10.871519,79.825325
+433,TR-Pattinam,TR-Pattinam South,Vannan Kulam – Pologam,10.863489,79.822311
+434,TR-Pattinam,TR-Pattinam South,Vanniyan kulam,10.87195,79.826822
+435,TR-Pattinam,TR-Pattinam North,Vela Kulam,10.878453,79.833214
+436,TR-Pattinam,TR-Pattinam South,Velupillai Veetu Kulam @ Mariamman Koil Kulam,10.863236,79.824606
+437,TR-Pattinam,TR-Pattinam South,Vengatesa perumal koil kulam,10.867861,79.830231
+438,TR-Pattinam,Edatheru,Vettiyan Kulam,10.863475,79.837803
+439,TR-Pattinam,Vanjore,Visalatchi Amman Koil Kulam,10.8294,79.831358
