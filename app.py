@@ -1,79 +1,14 @@
 import streamlit as st
 import pandas as pd
 import requests
+
 from utils.risk_engine import (
     calculate_land_risk,
     calculate_marine_risk,
     calculate_compound_risk,
     get_risk_level
 )
-# -----------------------------
-# THEME SELECTION
-# -----------------------------
 
-theme = st.sidebar.radio(
-    "🎨 Choose Theme",
-    ["Light", "Dark"]
-)
-if theme == "Dark":
-
-    st.markdown("""
-    <style>
-
-    .stApp {
-        background-color: #0E1117;
-        color: white;
-    }
-
-    [data-testid="stSidebar"] {
-        background-color: #161B22;
-    }
-
-    .stMarkdown,
-    .stText,
-    p,
-    label {
-        color: white !important;
-    }
-
-    .stMetric {
-        background-color: #1C2128;
-        border-radius: 10px;
-        padding: 10px;
-    }
-
-    </style>
-    """, unsafe_allow_html=True)
-
-else:
-
-    st.markdown("""
-    <style>
-
-    .stApp {
-        background-color: #FFFFFF;
-        color: #111111;
-    }
-
-    [data-testid="stSidebar"] {
-        background-color: #F5F7FA;
-    }
-
-    .stMarkdown,
-    .stText,
-    p,
-    label {
-        color: #111111 !important;
-    }
-
-    .stMetric {
-        background-color: #F5F7FA;
-        border-radius: 10px;
-        padding: 10px;
-    }
-
-    </style>
-    """, unsafe_allow_html=True)
 
 # -------------------------
 # PAGE SETTINGS
